@@ -1,4 +1,19 @@
 # Changelog
+## 2026-07-29
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-42739 - acl security update](https://linux.oracle.com/errata/ELSA-2026-42739.html)
+    * [CVE-2026-54369](https://linux.oracle.com/cve/CVE-2026-54369.html)
+    * [CVE-2026-54370](https://linux.oracle.com/cve/CVE-2026-54370.html)
+  * [ELSA-2026-28234 - libxml2 security update](https://linux.oracle.com/errata/ELSA-2026-28234.html)
+    * [CVE-2024-34459](https://linux.oracle.com/cve/CVE-2024-34459.html)
+  * [ - ](https://linux.oracle.com/errata/.html)
+  * [ELSA-2026-39183 - python3.12 security update](https://linux.oracle.com/errata/ELSA-2026-39183.html)
+    * [CVE-2026-15308](https://linux.oracle.com/cve/CVE-2026-15308.html)
+  * [ - ](https://linux.oracle.com/errata/.html)
+  * [ELSA-2026-22711 - vim security update](https://linux.oracle.com/errata/ELSA-2026-22711.html)
+    * [CVE-2026-35177](https://linux.oracle.com/cve/CVE-2026-35177.html)
+* <https://github.com/docker-library/official-images/pull/21947>
+
 ## 2026-07-23
 * Update `oraclelinux:9` , `oraclelinux:9-slim` and `oraclelinux:9-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2026-42952 - glibc security update](https://linux.oracle.com/errata/ELSA-2026-42952.html)
