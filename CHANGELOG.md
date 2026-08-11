@@ -1,4 +1,10 @@
 # Changelog
+## 2026-08-11
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-52675 - libarchive security update](https://linux.oracle.com/errata/ELSA-2026-52675.html)
+    * [CVE-2026-14164](https://linux.oracle.com/cve/CVE-2026-14164.html)
+* <https://github.com/docker-library/official-images/pull/22030>
+
 ## 2026-08-07
 * Update `oraclelinux:10` for `amd64` and `arm64v8`:
   * [ - ](https://linux.oracle.com/errata/.html)
