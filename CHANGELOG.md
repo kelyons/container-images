@@ -1,4 +1,17 @@
 # Changelog
+## 2026-08-14
+* Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
+  * [ELSA-2026-47755 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-47755.html)
+    * [CVE-2026-55653](https://linux.oracle.com/cve/CVE-2026-55653.html)
+    * [CVE-2026-55655](https://linux.oracle.com/cve/CVE-2026-55655.html)
+  * [ - ](https://linux.oracle.com/errata/.html)
+  * [ELSA-2026-48703 - vim security update](https://linux.oracle.com/errata/ELSA-2026-48703.html)
+    * [CVE-2026-55693](https://linux.oracle.com/cve/CVE-2026-55693.html)
+    * [CVE-2026-57455](https://linux.oracle.com/cve/CVE-2026-57455.html)
+    * [CVE-2026-57456](https://linux.oracle.com/cve/CVE-2026-57456.html)
+    * [CVE-2026-59858](https://linux.oracle.com/cve/CVE-2026-59858.html)
+* <https://github.com/docker-library/official-images/pull/22061>
+
 ## 2026-08-11
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-52675 - libarchive security update](https://linux.oracle.com/errata/ELSA-2026-52675.html)
