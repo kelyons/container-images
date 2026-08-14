@@ -1,5 +1,11 @@
 # Changelog
 ## 2026-08-14
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-54650 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-54650.html)
+    * [CVE-2026-58055](https://linux.oracle.com/cve/CVE-2026-58055.html)
+* <https://github.com/docker-library/official-images/pull/22063>
+
+## 2026-08-14
 * Update `oraclelinux:8` , `oraclelinux:8-slim` and `oraclelinux:8-slim-fips` for `amd64` and `arm64v8`:
   * [ELSA-2026-47755 - openssh security update](https://linux.oracle.com/errata/ELSA-2026-47755.html)
     * [CVE-2026-55653](https://linux.oracle.com/cve/CVE-2026-55653.html)
