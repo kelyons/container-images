@@ -1,4 +1,10 @@
 # Changelog
+## 2026-08-17
+* Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
+  * [ELSA-2026-55432 - curl security update](https://linux.oracle.com/errata/ELSA-2026-55432.html)
+    * [CVE-2026-8927](https://linux.oracle.com/cve/CVE-2026-8927.html)
+* <https://github.com/docker-library/official-images/pull/22071>
+
 ## 2026-08-14
 * Update `oraclelinux:10` and `oraclelinux:10-slim` for `amd64` and `arm64v8`:
   * [ELSA-2026-54650 - nghttp2 security update](https://linux.oracle.com/errata/ELSA-2026-54650.html)
